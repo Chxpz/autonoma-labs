@@ -352,4 +352,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 **Status:** Draft  
 **Type:** Standards Track  
 **Category:** ERC  
-**License:** MIT # autonoma-labs
+**License:** MIT
